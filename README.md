@@ -30,4 +30,6 @@ This notebook demonstrates the use of regression models applied to the Iris data
 
 This notebook demonstrates the use of deep learning techniques to model the Iris dataset. While deep learning may work for this problem, it's not an ideal approach due to the simplicity of the dataset and the nature of the task.
 
+- Neural Network
+
 [Iris Flower Deep Learning Notebook (Not Advisable)](https://colab.research.google.com/github/SalasNorman/workshop/blob/main/iris/iris_simpleDP.ipynb)
