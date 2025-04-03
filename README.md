@@ -1,7 +1,3 @@
-Here's the content formatted into a README:
-
----
-
 # Iris Flower Classification Workshop
 
 This repository contains a series of notebooks demonstrating different machine learning approaches to the Iris Flower dataset. Below are the notebooks with their respective focus areas.
@@ -23,7 +19,3 @@ This notebook attempts to apply regression models on the Iris flower dataset. It
 This notebook demonstrates the use of deep learning techniques to model the Iris dataset. While deep learning may work for this problem, it's not an ideal approach due to the simplicity of the dataset and the nature of the task.
 
 - [Iris Flower Deep Learning (Not Advisable)](https://colab.research.google.com/github/SalasNorman/workshop/blob/main/iris/iris_simpleDP.ipynb)
-
----
-
-Feel free to explore the notebooks and adapt them for your own learning and experimentation.
