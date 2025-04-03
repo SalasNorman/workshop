@@ -4,13 +4,25 @@ This repository contains a series of notebooks demonstrating different machine l
 
 ## 1. Iris Flower Classification
 
-This notebook focuses on classifying Iris flowers into different species using traditional machine learning algorithms.
+This notebook demonstrates the classification of Iris flowers using various machine learning models and hyperparameter tuning. The models used are:
+
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- Random Forest
+- XGBoost
 
 - [Iris Flower Classification (Recommended)](https://colab.research.google.com/github/SalasNorman/workshop/blob/main/iris/iris_classification.ipynb)
 
 ## 2. Iris Flower Regression (Not Advisable)
 
-This notebook attempts to apply regression models on the Iris flower dataset. It is not generally recommended due to the nature of the dataset (classification task rather than regression).
+This notebook demonstrates the use of regression models applied to the Iris dataset. Though regression is not the ideal approach for this classification problem, the following models are implemented with hyperparameter tuning:
+
+- **Linear Regression**: No hyperparameters for tuning, but cross-validation is performed.
+- **Ridge Regression**
+- **Lasso Regression**
+- **Decision Tree Regression**
+- **Random Forest Regression**
 
 - [Iris Flower Regression (Not Advisable)](https://colab.research.google.com/github/SalasNorman/workshop/blob/main/iris/iris_regression.ipynb)
 
