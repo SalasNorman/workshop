@@ -1,4 +1,4 @@
-# Iris Flower Classification
+# Iris Flower Machine Learning
 
 This repository contains a series of notebooks demonstrating different machine learning approaches to the Iris Flower dataset. Below are the notebooks with their respective focus areas.
 
